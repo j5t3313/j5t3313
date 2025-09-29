@@ -1,7 +1,7 @@
 # 🏎️ About Me:
 Data Scientist building ML systems for motorsport analytics. I develop Bayesian models, Monte Carlo simulations, and signal processing pipelines to extract insights from F1 telemetry and race data.
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j5t33l3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jessica.5t3313@gmail.com) 
 
 # 💻 Tech Stack:
