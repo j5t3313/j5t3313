@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist building ML systems for motorsport analytics. I develop Bayesian models, Monte Carlo simulations, and signal processing pipelines to extract insights from F1 telemetry and race data.
+Data Scientist building ML systems for motorsport analytics. I develop Bayesian models, Monte Carlo simulations, and signal processing pipelines to extract insights from F1 telemetry and race data. 
 
 
 ## 🌐 Socials:
