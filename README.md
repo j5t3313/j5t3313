@@ -24,7 +24,7 @@ I build end-to-end analytics systems, from data pipelines and Bayesian inference
 
 | Project | Tech |
 |---------|------|
-| [f1-strategy-simulator](https://github.com/j5t3313/f1-strategy-sim) | Bayesian tire degradation model (α + β·lap + γ·lap²) with compound-specific informative priors and MCMC posterior fitting from practice session data · AR(1) autocorrelated lap-time noise · Monte Carlo strategy simulation (100–2000 iterations) with head-to-head win rate analysis · FP2 data pipeline via FastF1 for race-weekend posterior updates |
+| [f1-strategy-simulator](https://f1strategysim.com) | Bayesian tire degradation model (α + β·lap + γ·lap²) with compound-specific informative priors and MCMC posterior fitting from practice session data · AR(1) autocorrelated lap-time noise · Monte Carlo strategy simulation (100–2000 iterations) with head-to-head win rate analysis · FP2 data pipeline via FastF1 for race-weekend posterior updates |
 | [stochasticPitSim](https://github.com/j5t3313/stochasticPitSim) | NumPyro/JAX Bayesian inference with NUTS sampler (500 warmup, 1000 samples) · Compound-specific degradation priors · Safety car probability modeling · 1000-iteration Monte Carlo with head-to-head win probabilities |
 
 ### Signal Processing & Time-Series Analysis
