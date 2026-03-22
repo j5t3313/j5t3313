@@ -33,6 +33,12 @@ I build end-to-end analytics systems, from data pipelines and Bayesian inference
 |---------|------|
 | [telemetryAnimation](https://github.com/j5t3313/telemetryAnimation) | Sector dominance calculation (~100 segments, average speed per driver) · Track layout optimization via rotation fitting · matplotlib FuncAnimation with LineCollection for efficient trace rendering · Dynamic z-ordering for layered visualization |
 | [drivesense-ai](https://github.com/j5t3313/drivesense-ai) | Savitzky-Golay filter (window=5, poly=2) for derivative calculation · Steering jerk analysis for mistake detection (>2× baseline threshold) · Corner-level classification: mistakes vs. line variations vs. technique differences · Coefficient of variation for multi-lap consistency scoring |
+| [f1-superclipping-viz](https://github.com/j5t3313/f1-superclipping-viz) | Super-clipping detection via dSpeed/dDistance gradient on FastF1 telemetry · Savitzky-Golay smoothing with run-length noise filtering · Dual-panel animated GIF: synchronized track map and speed trace · Four-state energy classification (deploy, super-clip, harvest, brake regen) |
+
+### Survival Analysis & Statistical Inference
+| Project | Tech |
+|---------|------|
+| [f1-season-opening-analysis](https://github.com/j5t3313/season_opening_analysis) | Kaplan-Meier survival estimation with pairwise log-rank tests (lifelines) · Coefficient of variation analysis on sector-level race pace · Kinematic super-clipping detection across PU families · 107% lap time filtering with low-sample-count flagging |
 
 ### Predictive Modeling & Dashboards
 
