@@ -1,7 +1,7 @@
 # Jessica Steele
 **Data Scientist** specializing in statistical modeling, simulation, and time-series analysis.
 I build end-to-end analytics systems, from data pipelines and Bayesian inference to interactive dashboards. My portfolio applies these techniques to Formula 1, where telemetry data and complex decision-making create rich problems for ML and simulation.
-[Substack](https://formulasteele.substack.com) · [LinkedIn](https://linkedin.com/in/j5t3313)
+[Substack](https://formulasteele.substack.com) · [LinkedIn](https://linkedin.com/in/j5t33l3)
 ---
 ## Tech Stack
 **Languages** · Python, R, SQL  
