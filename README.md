@@ -1,4 +1,4 @@
-> **Note (October 2026):** F1 now requires an F1 TV subscription to download timing data, which affects every repo here that uses FastF1. I'm working through updates to support FastF1 3.9.0 and its new sign-in requirement. Until a repo is updated, loading uncached sessions may return empty data. To run any of these projects yourself, you'll need your own F1 TV Access (or higher) subscription. See [FastF1 issue #978](https://github.com/theOehrly/Fast-F1/issues/978) for details.
+> **Note (October 24, 2026):** F1 now requires an F1 TV subscription to download timing data, which affects every repo here that uses FastF1. I'm working through updates to support FastF1 3.9.0 and its new sign-in requirement. Until a repo is updated, loading uncached sessions may return empty data. To run any of these projects yourself, you'll need your own F1 TV Access (or higher) subscription. See [FastF1 issue #978](https://github.com/theOehrly/Fast-F1/issues/978) for details.
 
 # Jessica Steele
 **Data Scientist** specializing in statistical modeling, simulation, and time-series analysis.
